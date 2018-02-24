@@ -13,4 +13,4 @@ cscr [move_count (optional)]
 
 $ cd cscr
 $ make
-# make install
+\# make install
