@@ -12,5 +12,7 @@ cscr [move_count (optional)]
 ## Build & Install:
 
 $ cd cscr
+
 $ make
+
 \# make install
