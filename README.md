@@ -12,7 +12,5 @@ A simple c program that generates a random scramble sequence for the 3x3 Rubik's
 ## Build & Install:
 
     $ cd cscr
-
     $ make
-
     # make install
